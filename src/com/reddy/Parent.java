@@ -12,7 +12,7 @@ package com.reddy;
 
 		
 	
-		System.out.println("goodnight2");
+		System.out.println("good night2");
 }
  }
  
