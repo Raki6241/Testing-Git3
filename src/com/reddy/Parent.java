@@ -3,7 +3,7 @@ package com.reddy;
  class Parent { 
 	 public void raki(){
 		System.out.println("hello welcome");
-		System.out.println("goodnight1");
+		System.out.println("goodnight");
 	}	
 	
 	public static void main(String[] args) {
